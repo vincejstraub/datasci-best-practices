@@ -1,9 +1,9 @@
 # Data Science Best Practices
 
 ## Table of Contents
-* [Using Python in an IDE] (#using-python-in-an-ide)
-* [GitHub Best Practices] (#github-best-practices)
-* [Creating a Package] (#creating-a-package)
+* [Using Python in an IDE](#using-python-in-an-ide)
+* [GitHub Best Practices](#github-best-practices)
+* [Creating a Package](#creating-a-package)
 
 ## Using Python in an IDE 
 
