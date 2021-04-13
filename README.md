@@ -1,8 +1,5 @@
 # Data Science Best Practices
 
-###### tags: `Miscellaneous`
-
-
 ## Table of Contents
 * [Using Python in an IDE] (#using-python-in-an-ide)
 * [GitHub Best Practices] (#github-best-practices)
