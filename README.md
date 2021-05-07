@@ -150,6 +150,8 @@ Before we set up GitHub it is crucial that we familiarise you with some key term
 
 ## Creating a requirements.txt
 
+A requirements file is a list of all of a project's dependencies. This includes the dependencies needed by the dependencies. It also contains the specific version of each dependency, specified with a double equals sign ( == ). pip freeze will list the current projects dependencies to stdout
+
 Use Pipenv or other tools for improving your development flow.
 
 `pip3 freeze > requirements.txt  # Python3`
