@@ -146,6 +146,13 @@ Before we set up GitHub it is crucial that we familiarise you with some key term
 **Upstream**
 
 > While there is not necessarily a default “upstream” or “downstream” for Git projects, upstream can be considered where you push your Git changes — this is often the master branch of the project within the origin
+> 
+
+## Creating a requirements.txt
+
+Use Pipenv or other tools for improving your development flow.
+
+`pip3 freeze > requirements.txt  # Python3`
 
 ## Creating a package
 
